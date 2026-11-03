@@ -2,7 +2,7 @@
 
 A full-stack discussion platform: topic-based communities, threaded conversations and community-ranked content. Reddit-style, built from scratch.
 
-> 🚧 **Early development** · v0.1 (UI prototype) in progress · see the [roadmap](#roadmap)
+   > 🚧 **Early development** · v0.2 (responsive styling) in progress · see the [roadmap](#roadmap)
 
 ## Overview
 
@@ -56,7 +56,7 @@ erDiagram
 
 Each milestone is tagged (`v0.1.0`, `v0.2.0`, …).
 
-- [ ] **v0.1** — UI prototype: feed, community, post and auth pages
+- [x] **v0.1** — UI prototype: feed, community, post and auth pages
 - [ ] **v0.2** — Responsive, mobile-first styling
 - [ ] **v0.3** — Client-side interactions: voting, collapsible threads, theming
 - [ ] **v0.4** — Server-side rendering (Node.js, Express, EJS)
